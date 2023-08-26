@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: mypoolagent
+pool: Dev-poolagent
 
 steps:
 - task: NodeTool@0
