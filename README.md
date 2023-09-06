@@ -10,4 +10,4 @@
 
 Thanks [@paulgergely](https://twitter.com/paulgergely) for the initial flat design!
 
-Also see [elm-flatris](https://github.com/w0rm/elm-flatris).
+www.me.com Also see [elm-flatris](https://github.com/w0rm/elm-flatris).www.me.com
